@@ -1,0 +1,4 @@
+Django Cheat Sheet
+There's a couple of Django commands that I'm going to cover in this section that can be hard to remember so I made a Django Cheat Sheet so that you can quickly get to these commands when you're working on your own project. Enjoy!
+
+https://zappycode.com/posts/1/django-cheat-sheet
